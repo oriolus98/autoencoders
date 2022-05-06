@@ -1,0 +1,2 @@
+# Autoencoder as anomaly detection method
+I use different autoencoder architectures implemented with tensorflow as dimension reduction and anomaly detection methods. Following the paper 'Postulating Exoplanetary Habitability via a Novel Anomaly Detection Method', we assume that non-habitable planets are very usual. Thus, we may be able to detect habitable planets as anomalies from data coming from the PHL-HEC dataset. This assigment was proposed on my Deep Learning course at Data Science Master from Universitat de València.
